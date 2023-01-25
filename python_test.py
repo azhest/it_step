@@ -1,5 +1,6 @@
 price = 10
 quantity = 15
 
-print(price * quantity)
+print(f'price * quantity/100'%)
+
 
